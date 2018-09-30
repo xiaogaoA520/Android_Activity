@@ -1,0 +1,2 @@
+# Android_Activity
+本文包括Activity入门、Activity生命周期、Activity启动模式、Intent的使用以及Activity的数据传递。
